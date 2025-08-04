@@ -1,0 +1,12 @@
+[package]
+name = "tnt"
+version = "0.1.0"
+edition = "2024"
+description = "A Rust library for managing configuration files in a custom format"
+license = "GPL-2.0 license"
+repository = "https://github.com/atxxxm/tnt"
+keywords = ["configuration", "file", "parser"]
+categories = ["config", "parser"]
+
+
+[dependencies]
